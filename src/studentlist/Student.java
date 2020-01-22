@@ -8,7 +8,7 @@ package studentlist;
 /**
  *
  * @author srinivsi
- */
+ date*/
 public class Student
 {
     private String name;
